@@ -68,3 +68,6 @@ This section has moved here: [https://facebook.github.io/create-react-app/docs/d
 ### `npm run build` fails to minify
 
 This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
+
+
+### `Equipe:-Kewyn Halex Almeida de Almeida - 04160733 -Fernando Ataíde Borges - 04153660 -Samuel Vitor Bastos Cavalcante - 04161283 -Arthur Souza Amaral - 04162796 -Kauã Henrique Siqueira da Costa - 04158979 -João Matheus Da Gama Fontes - 04159155`
